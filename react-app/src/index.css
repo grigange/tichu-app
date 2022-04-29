@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: Bonzai;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100vw;
+  height: 100vh;
+  font-size: 5em;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: Bonzai;
+  src: url(assets/fonts/bonzai.ttf) format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}

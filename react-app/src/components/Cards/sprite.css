@@ -1,0 +1,355 @@
+/*BLACK*/
+
+.card-2black {
+    width: 150px; height: 200px;
+    background-position: -5px -5px;
+}
+
+.card-3black {
+    width: 150px; height: 200px;
+    background-position: -165px -5px;
+}
+
+.card-4black {
+    width: 150px; height: 200px;
+    background-position: -325px -5px;
+}
+
+.card-5black {
+    width: 150px; height: 200px;
+    background-position: -485px -5px;
+}
+
+.card-6black {
+    width: 150px; height: 200px;
+    background-position: -645px -5px;
+}
+
+.card-7black {
+    width: 150px; height: 200px;
+    background-position: -805px -5px;
+}
+
+.card-8black {
+    width: 150px; height: 200px;
+    background-position: -965px -5px;
+}
+
+.card-9black {
+    width: 150px; height: 200px;
+    background-position: -1125px -5px;
+}
+
+.card-10black {
+    width: 150px; height: 200px;
+    background-position: -1285px -5px;
+}
+
+.card-11black {
+    width: 150px; height: 200px;
+    background-position: -1445px -5px;
+}
+
+.card-12black {
+    width: 150px; height: 200px;
+    background-position: -1605px -5px;
+}
+
+.card-13black {
+    width: 150px; height: 200px;
+    background-position: -1765px -5px;
+}
+
+.card-14black {
+    width: 150px; height: 200px;
+    background-position: -1925px -5px;
+}
+
+.card-dogs {
+    width: 150px; height: 200px;
+    background-position: -2085px -5px;
+}
+
+
+/*BLUE*/
+
+
+.card-2blue {
+    width: 150px; height: 200px;
+    background-position: -5px -210px;
+}
+
+.card-3blue {
+    width: 150px; height: 200px;
+    background-position: -165px -210px;
+}
+
+.card-4blue {
+    width: 150px; height: 200px;
+    background-position: -325px -210px;
+}
+
+.card-5blue {
+    width: 150px; height: 200px;
+    background-position: -485px -210px;
+}
+
+.card-6blue {
+    width: 150px; height: 200px;
+    background-position: -645px -210px;
+}
+
+.card-7blue {
+    width: 150px; height: 200px;
+    background-position: -805px -210px;
+}
+
+.card-8blue {
+    width: 150px; height: 200px;
+    background-position: -965px -210px;
+}
+
+.card-9blue {
+    width: 150px; height: 200px;
+    background-position: -1125px -210px;
+}
+
+.card-10blue {
+    width: 150px; height: 200px;
+    background-position: -1285px -210px;
+}
+
+.card-11blue {
+    width: 150px; height: 200px;
+    background-position: -1445px -210px;
+}
+
+.card-12blue {
+    width: 150px; height: 200px;
+    background-position: -1605px -210px;
+}
+
+.card-13blue {
+    width: 150px; height: 200px;
+    background-position: -1765px -210px;
+}
+
+.card-14blue {
+    width: 150px; height: 200px;
+    background-position: -1925px -210px;
+}
+
+.card-dragon {
+    width: 150px; height: 200px;
+    background-position: -2085px -210px;
+}
+
+/*GREEN*/
+
+.card-2green {
+    width: 150px; height: 200px;
+    background-position: -5px -420px;
+}
+
+.card-3green {
+    width: 150px; height: 200px;
+    background-position: -165px -420px;
+}
+
+.card-4green {
+    width: 150px; height: 200px;
+    background-position: -325px -420px;
+}
+
+.card-5green {
+    width: 150px; height: 200px;
+    background-position: -485px -420px;
+}
+
+.card-6green {
+    width: 150px; height: 200px;
+    background-position: -645px -420px;
+}
+
+.card-7green {
+    width: 150px; height: 200px;
+    background-position: -805px -420px;
+}
+
+.card-8green {
+    width: 150px; height: 200px;
+    background-position: -965px -420px;
+}
+
+.card-9green {
+    width: 150px; height: 200px;
+    background-position: -1125px -420px;
+}
+
+.card-10green {
+    width: 150px; height: 200px;
+    background-position: -1285px -420px;
+}
+
+.card-11green {
+    width: 150px; height: 200px;
+    background-position: -1445px -420px;
+}
+
+.card-12green {
+    width: 150px; height: 200px;
+    background-position: -1605px -420px;
+}
+
+.card-13green {
+    width: 150px; height: 200px;
+    background-position: -1765px -420px;
+}
+
+.card-14green {
+    width: 150px; height: 200px;
+    background-position: -1925px -420px;
+}
+
+.card-1 {
+    width: 150px; height: 200px;
+    background-position: -2085px -420px;
+}
+
+
+/*RED*/
+
+.card-2red {
+    width: 150px; height: 200px;
+    background-position: -5px -630px;
+}
+
+.card-3red {
+    width: 150px; height: 200px;
+    background-position: -165px -630px;
+}
+
+.card-4red {
+    width: 150px; height: 200px;
+    background-position: -325px -630px;
+}
+
+.card-5red {
+    width: 150px; height: 200px;
+    background-position: -485px -630px;
+}
+
+.card-6red {
+    width: 150px; height: 200px;
+    background-position: -645px -630px;
+}
+
+.card-7red {
+    width: 150px; height: 200px;
+    background-position: -805px -630px;
+}
+
+.card-8red {
+    width: 150px; height: 200px;
+    background-position: -965px -630px;
+}
+
+.card-9red {
+    width: 150px; height: 200px;
+    background-position: -1125px -630px;
+}
+
+.card-10red {
+    width: 150px; height: 200px;
+    background-position: -1285px -630px;
+}
+
+.card-11red {
+    width: 150px; height: 200px;
+    background-position: -1445px -630px;
+}
+
+.card-12red {
+    width: 150px; height: 200px;
+    background-position: -1605px -630px;
+}
+
+.card-13red {
+    width: 150px; height: 200px;
+    background-position: -1765px -630px;
+}
+
+.card-14red {
+    width: 150px; height: 200px;
+    background-position: -1925px -630px;
+}
+
+.card-phoenix {
+    width: 150px; height: 200px;
+    background-position: -2085px -630px;
+}
+/*Just to be sure*/
+.card-dogsblack {
+    width: 150px; height: 200px;
+    background-position: -2085px -5px;
+}
+.card-dogsblue {
+    width: 150px; height: 200px;
+    background-position: -2085px -5px;
+}
+.card-dogsgreen {
+    width: 150px; height: 200px;
+    background-position: -2085px -5px;
+}
+.card-dogsred {
+    width: 150px; height: 200px;
+    background-position: -2085px -5px;
+}
+.card-dragonblack {
+    width: 150px; height: 200px;
+    background-position: -2085px -210px;
+}
+.card-dragonblue {
+    width: 150px; height: 200px;
+    background-position: -2085px -210px;
+}
+.card-dragongreen {
+    width: 150px; height: 200px;
+    background-position: -2085px -210px;
+}
+.card-dragonred {
+    width: 150px; height: 200px;
+    background-position: -2085px -210px;
+}
+.card-mahjongblack {
+    width: 150px; height: 200px;
+    background-position: -2085px -420px;
+}
+.card-mahjongblue {
+    width: 150px; height: 200px;
+    background-position: -2085px -420px;
+}
+.card-mahjonggreen {
+    width: 150px; height: 200px;
+    background-position: -2085px -420px;
+}
+.card-mahjongred {
+    width: 150px; height: 200px;
+    background-position: -2085px -420px;
+}
+.card-phoenixred {
+    width: 150px; height: 200px;
+    background-position: -2085px -630px;
+}
+.card-phoenixblue {
+    width: 150px; height: 200px;
+    background-position: -2085px -630px;
+}
+.card-phoenixblack {
+    width: 150px; height: 200px;
+    background-position: -2085px -630px;
+}
+.card-phoenixgreen {
+    width: 150px; height: 200px;
+    background-position: -2085px -630px;
+}
